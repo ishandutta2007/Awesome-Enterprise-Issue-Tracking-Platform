@@ -60,9 +60,9 @@ Commercial enterprise-grade issue tracking and agile delivery suites. Ranked and
 
 ## 💻 Open-Source & Self-Hosted Software
 
-Community-driven, self-hosted issue tracking, bug tracking, and collaborative project systems. Ranked and sorted in descending order by GitHub community popularity (star count).
+Community-driven, self-hosted issue tracking, bug tracking, and collaborative project systems. Ranked and sorted in descending order by GitHub community popularity (Stars_Count).
 
-| Project / Repository | Stars | Tech Stack | License | Core Capabilities & Architecture | Best For |
+| Project / Repository | GitHub_Stars | Tech Stack | License | Core Capabilities & Architecture | Best For |
 |:---|:---:|:---:|:---:|:---|:---|
 | **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** | [![AppFlowy Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers) | Flutter / Rust | AGPL-3.0 | Modern privacy-first workspace alternative to Notion/Jira. Provides nested document views, customizable kanban boards, issue tables, and offline-first encrypted sync. | Teams seeking an open-source, customizable, offline-capable workspace for issues and documentation. |
 | **[Plane](https://github.com/makeplane/plane)** | [![Plane Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers) | TypeScript / Python / Django | AGPL-3.0 | Modern Jira replacement featuring issues, cycles, module roadmaps, live pages, and AI triage. Sleek React UI with comprehensive REST APIs and Docker deployments. | Engineering squads craving a lightweight, snappy, contemporary alternative to Jira. |
@@ -168,7 +168,7 @@ Contributions are warmly welcomed! To suggest an enterprise issue tracker or ope
 
 1. 🍴 Fork the repository.
 2. 🌿 Create a feature branch (`git checkout -b feature/new-tracker`).
-3. 📝 Add the platform with its tech stack, license, pricing, and GitHub star badge.
+3. 📝 Add the platform with its tech stack, license, pricing, and GitHub Stars_Badge.
 4. 🚀 Submit a Pull Request with a clear rationale.
 
 ---
