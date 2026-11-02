@@ -168,7 +168,7 @@ Contributions are warmly welcomed! To suggest an enterprise issue tracker or ope
 
 1. 🍴 Fork the repository.
 2. 🌿 Create a feature branch (`git checkout -b feature/new-tracker`).
-3. 📝 Add the platform with its tech stack, license, pricing, and GitHub Stars_Badge.
+3. 📝 Add the platform with its tech stack, license, pricing, and GitHub_Stars_Badge.
 4. 🚀 Submit a Pull Request with a clear rationale.
 
 ---
