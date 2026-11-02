@@ -4,10 +4,11 @@
 
 # 🚀 Awesome Enterprise Issue Tracking Platform
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Follow on GitHub](https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=social)](https://github.com/ishandutta2007)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A comprehensive, curated benchmark and directory of top Enterprise Issue Tracking Platforms, Bug Trackers, Agile Project Management Tools, and Self-Hosted Open-Source Work Management Systems.**
 
@@ -26,6 +27,8 @@
 - [💻 Open-Source & Self-Hosted Software](#-open-source--self-hosted-software)
 - [⚖️ Comprehensive Comparison Matrix](#️-comprehensive-comparison-matrix)
 - [🎯 Selection Guide & Architecture Considerations](#-selection-guide--architecture-considerations)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⭐ Star History](#-star-history)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
@@ -140,6 +143,22 @@ Community-driven, self-hosted issue tracking, bug tracking, and collaborative pr
 2. **For Complex Enterprise Workflows & Compliance:** **[Jira Data Center](https://www.atlassian.com/software/jira)** and **[OpenProject](https://github.com/opf/openproject)** provide advanced permission trees, custom state machines, and auditability.
 3. **For Single-Tenant ITSM & ITIL Alignment:** Deploy **[ServiceNow SPM](https://www.servicenow.com/products/strategic-portfolio-management.html)** or the open-source **[GLPI](https://github.com/glpi-project/glpi)** to manage hardware assets alongside bug tickets.
 4. **For Offline-First or Low-Resource Environments:** Run **[Gitea](https://github.com/go-gitea/gitea)** or **[Kanboard](https://github.com/kanboard/kanboard)** with sub-100MB RAM overhead.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and using this curated benchmark! If this resource saved you engineering research time, helped your enterprise select the right issue tracker, or provided value to your team, please consider showing your support:
+
+- ⭐ **Star this repository** to help others discover it across GitHub.
+- 🍴 **Fork and contribute** new enterprise platforms, updates, and open-source projects.
+- 📢 **Share this guide** with your engineering, DevOps, and product management peers.
+- ☕ **Buy me a coffee / Sponsor the project** directly via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007) to support continuous updates and open-source research!
+
+---
+
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Enterprise-Issue-Tracking-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Enterprise-Issue-Tracking-Platform&type=date&legend=top-left)
 
 ---
 
